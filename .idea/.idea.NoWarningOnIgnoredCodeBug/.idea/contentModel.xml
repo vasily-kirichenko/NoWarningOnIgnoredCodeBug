@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vaski\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_NoWarningOnIgnoredCodeBug.272874148.00" t="ExcludeRecursive" />
+    <e p="E:\github\NoWarningOnIgnoredCodeBug" t="IncludeFlat">
+      <e p="NoWarningOnIgnoredCodeBug" t="IncludeRecursive">
+        <e p="AssemblyInfo.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="NoWarningOnIgnoredCodeBug.fsproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.fs" t="Include" />
+      </e>
+      <e p="NoWarningOnIgnoredCodeBug.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
